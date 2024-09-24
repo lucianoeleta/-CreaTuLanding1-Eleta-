@@ -5,7 +5,7 @@ function NavBar() {
   return (
     <nav style={{ padding: '10px', backgroundColor: '#f4f4f4', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
       <div>
-        <img src="" alt="Logo Ferretería" style={{ height: '40px' }} />
+        <img src="C:\Users\lucia\Desktop\depositphotos_79399298-stock-illustration-vector-flat-icon.jpg" alt="Logo Ferretería" style={{ height: '40px' }} />
       </div>
       <ul style={{ display: 'flex', listStyle: 'none' }}>
         <li><a href="/">Inicio</a></li>
