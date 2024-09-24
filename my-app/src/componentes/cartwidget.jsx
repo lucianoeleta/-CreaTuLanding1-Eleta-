@@ -3,7 +3,7 @@ import React from 'react';
 function CartWidget() {
   return (
     <div style={{ display: 'flex', alignItems: 'center' }}>
-      <img src="C:\Users\lucia\Desktop\depositphotos_79399298-stock-illustration-vector-flat-icon.jpg" alt="Carrito" style={{ height: '24px' }} />
+      <img src="https://cdn-icons-png.flaticon.com/512/5412/5412512.png" alt="Carrito" style={{ height: '24px' }} />
       <span style={{ marginLeft: '8px' }}>3</span> 
     </div>
   );
